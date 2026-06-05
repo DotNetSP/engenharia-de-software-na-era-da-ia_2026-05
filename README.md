@@ -3,7 +3,7 @@ Fotos e informações gerais sobre o evento "Engenharia de Software na Era da IA
 
 ![Abertura 1](img/abertura-02.jpg)
 
-![Renato e Fabio palestrando 1](img/fabio-02.png)
+![Renato e Fabio palestrando 1](img/renato-fabio-05.jpeg)
 
 ![Fabio palestrando 1](img/fabio-02.png)
 
