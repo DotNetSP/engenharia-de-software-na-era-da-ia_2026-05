@@ -27,6 +27,13 @@ Palestrante: **Marcelo Marchi (CEO e Fundador da Vericode)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Claude, Desenvolvimento de Software, Desenvolvimento Web, Qualidade de Software...**
 
+_# Painel: Governança suportada por IA_
+
+Participantes:
+- **Maria Fabiana (Vericode)**
+- **Marcelo Marchi (CEO e Fundador da Vericode)**
+- **Juliana Lopes (Microsoft MVP)**
+- **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
 ---
 
