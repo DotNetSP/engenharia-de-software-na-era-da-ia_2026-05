@@ -7,4 +7,6 @@ Fotos e informações gerais sobre o evento "Engenharia de Software na Era da IA
 
 ![Fabio palestrando 1](img/fabio-02.png)
 
+![Marchi palestrando 1](img/marchi-07.jpg)
+
 ![Banner do evento](img/meetup-2026-05-30.png)
