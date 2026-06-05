@@ -35,6 +35,8 @@ Participantes:
 - **Juliana Lopes (Microsoft MVP)**
 - **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Claude, Desenvolvimento de Software, Desenvolvimento Web, Qualidade de Software, Segurança, OWASP Top 10 LLM, OWASP Top 10 MCP, Cybersegurança...**
+
 ---
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
