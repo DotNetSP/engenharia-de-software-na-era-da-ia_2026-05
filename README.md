@@ -11,6 +11,8 @@ Organizadores:
 
 Número de participantes: **35 pessoas**
 
+Um vídeo com a gravação das apresentações está disponível no **YouTube**: **https://www.youtube.com/watch?v=YotQYkVlDc0**
+
 ---
 
 Apresentações/talks que aconteceram durante o evento:
