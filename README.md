@@ -15,35 +15,18 @@ Número de participantes: **35 pessoas**
 
 Apresentações/talks que aconteceram durante o evento:
 
-_# MCP + Playwright: como construir testes mais inteligentes_
+_# MCP + IA + Performance com k6 + Observabilidade_
 
-Palestrante: **Fábio Araújo (QA Lead, Dev Referências)**
+Palestrantes: **Fábio Araújo (Dev Referências), Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
-Tecnologias e tópicos abordados: **Playwright, LLMs, Inteligência Artificial, MCP, Testes de Software, Qualidade de Software, Produtividade...**
+Tecnologias e tópicos abordados: **Grafana k6, MCP, Visual Studio Code, GitHub Copilot, Observabilidade, Inteligência Artificial, LLMs, MCP, DevOps, Azure Container Apps, OpenTelemetry, Application Insights, Azure Monitor, Docker, ASP.NET Core, .NET, Docker, Containers...**
 
-_# Mais IA, menos liderança: o risco que ninguém está discutindo_
+_# Desafios do mercado regulado na era da IA_
 
-Palestrante: **Cilene Danta (Café em Código), Michael Silva (Café em Código)**
+Palestrante: **Marcelo Marchi (CEO e Fundador da Vericode)**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, Produtividade, Liderança, Desenvolvimento de Software, Carreira em TI...**
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Claude, Desenvolvimento de Software, Desenvolvimento Web, Qualidade de Software...**
 
-_# GitHub Agentic Workflows: automatize tudo o que você precisar_
-
-Palestrante: **Vinicius Moura (Microsoft MVP)**
-
-Tecnologias e tópicos abordados: **GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Microsoft Azure, Azure Container Apps...**
-
-_# Carreira para Devs serem insubstituíveis na era da IA_
-
-Palestrante: **Larissa Azevedo (Microsoft MVP)**
-
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, Desenvolvimento de Software, Carreira em TI, Desenvolvimento Web...**
-
-_# Como o GitHub Copilot + MCPs podem ser úteis no setup inicial e documentação de novas aplicações?_
-
-Palestrantes: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC), Milton Camara Gomes (Microsoft MVP, MTAC)**
-
-Tecnologias e tópicos abordados: **GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Docker Compose, Grafana, Grafana Tempo, OpenTelemetry...**
 
 ---
 
